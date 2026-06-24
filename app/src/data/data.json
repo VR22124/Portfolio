@@ -1,0 +1,158 @@
+{
+  "meta": {
+    "name": "Vishnu Rohith B",
+    "title": "Full Stack Developer",
+    "email": "vishnurohith@email.com",
+    "phone": "+91 XXXXXXXXXX",
+    "location": "India",
+    "resumeUrl": "/resume.pdf",
+    "availableForWork": true,
+    "social": {
+      "github": "https://github.com/vishnurohith",
+      "linkedin": "https://linkedin.com/in/vishnurohith",
+      "twitter": "https://twitter.com/vishnurohith"
+    }
+  },
+  "hero": {
+    "greeting": "Hello, Universe. I'm",
+    "taglines": [
+      "MERN Stack Engineer",
+      "Cloud Architect",
+      "DevOps Practitioner",
+      "Automation Builder",
+      "AI Agent Orchestrator"
+    ],
+    "bio": "I architect scalable systems, automate the mundane, and orchestrate intelligent agents — one commit at a time."
+  },
+  "about": {
+    "headline": "I Build Things That Live on the Internet",
+    "paragraphs": [
+      "Fresh out of engineering with a head full of ideas and hands ready to build. I specialize in the MERN stack, cloud infrastructure on Azure, and building automation pipelines that make systems smarter.",
+      "I believe great software is invisible — it just works, scales, and never gets in the user's way. My approach combines solid engineering fundamentals with modern DevOps practices.",
+      "When I'm not writing code, I'm designing automation workflows in n8n, exploring AI agent frameworks, or contributing to open source."
+    ],
+    "stats": [
+      { "label": "Projects Built", "value": "12", "suffix": "+" },
+      { "label": "GitHub Commits", "value": "500", "suffix": "+" },
+      { "label": "Technologies", "value": "20", "suffix": "+" },
+      { "label": "Cups of Coffee", "value": "∞", "suffix": "" }
+    ],
+    "terminal": [
+      "Name: Vishnu Rohith B",
+      "Role: Full Stack Developer",
+      "Based in: India",
+      "Status: Open to opportunities ✓",
+      "Stack: MERN · Azure · DevOps · AI",
+      "Loading personality... [████████░░] 80% caffeinated"
+    ]
+  },
+  "skills": [
+    { "name": "React", "level": 88, "category": "Frontend", "logoUrl": "https://cdn.simpleicons.org/react" },
+    { "name": "JavaScript", "level": 90, "category": "Frontend", "logoUrl": "https://cdn.simpleicons.org/javascript" },
+    { "name": "TypeScript", "level": 75, "category": "Frontend", "logoUrl": "https://cdn.simpleicons.org/typescript" },
+    { "name": "Node.js", "level": 85, "category": "Backend", "logoUrl": "https://cdn.simpleicons.org/nodedotjs" },
+    { "name": "Express.js", "level": 85, "category": "Backend", "logoUrl": "https://cdn.simpleicons.org/express/ffffff" },
+    { "name": "MongoDB", "level": 82, "category": "Databases", "logoUrl": "https://cdn.simpleicons.org/mongodb" },
+    { "name": "Python", "level": 70, "category": "Backend", "logoUrl": "https://cdn.simpleicons.org/python" },
+    { "name": "Azure", "level": 78, "category": "Cloud & DevOps", "logoUrl": "https://cdn.simpleicons.org/microsoftazure" },
+    { "name": "Docker", "level": 80, "category": "Cloud & DevOps", "logoUrl": "https://cdn.simpleicons.org/docker" },
+    { "name": "Git", "level": 90, "category": "Cloud & DevOps", "logoUrl": "https://cdn.simpleicons.org/git" },
+    { "name": "GitHub", "level": 88, "category": "Cloud & DevOps", "logoUrl": "https://cdn.simpleicons.org/github/ffffff" },
+    { "name": "n8n", "level": 82, "category": "Automation & AI", "logoUrl": "https://cdn.simpleicons.org/n8n" },
+    { "name": "Redis", "level": 65, "category": "Databases", "logoUrl": "https://cdn.simpleicons.org/redis" },
+    { "name": "Linux", "level": 78, "category": "Cloud & DevOps", "logoUrl": "https://cdn.simpleicons.org/linux/ffffff" },
+    { "name": "Nginx", "level": 70, "category": "Cloud & DevOps", "logoUrl": "https://cdn.simpleicons.org/nginx" },
+    { "name": "GraphQL", "level": 68, "category": "Backend", "logoUrl": "https://cdn.simpleicons.org/graphql" },
+    { "name": "Postman", "level": 88, "category": "Backend", "logoUrl": "https://cdn.simpleicons.org/postman" },
+    { "name": "Kubernetes", "level": 60, "category": "Cloud & DevOps", "logoUrl": "https://cdn.simpleicons.org/kubernetes" }
+  ],
+  "projects": [
+    {
+      "id": "proj-001",
+      "title": "AutoFlow AI",
+      "tagline": "Intelligent n8n-powered automation platform with AI decision nodes",
+      "description": "A production-grade automation platform built on n8n with custom AI agent nodes. Orchestrates multi-step workflows connecting APIs, databases, and AI models with zero manual intervention.",
+      "tags": ["n8n", "Node.js", "MongoDB", "Azure", "AI Agents"],
+      "type": "Full Stack",
+      "liveUrl": "#",
+      "githubUrl": "#",
+      "featured": true,
+      "image": "/images/proj1.png",
+      "stats": { "commits": 148, "linesOfCode": "12K", "duration": "6 weeks" }
+    },
+    {
+      "id": "proj-002",
+      "title": "DevDeploy Dashboard",
+      "tagline": "CI/CD pipeline visualizer and deployment manager",
+      "description": "A React-based dashboard that integrates with GitHub Actions and Azure DevOps to provide a unified view of all pipelines, deployments, and rollback capabilities.",
+      "tags": ["React", "Node.js", "Azure DevOps", "Docker"],
+      "type": "Full Stack",
+      "liveUrl": "#",
+      "githubUrl": "#",
+      "featured": true,
+      "image": "/images/proj2.png",
+      "stats": { "commits": 92, "linesOfCode": "7.8K", "duration": "4 weeks" }
+    },
+    {
+      "id": "proj-003",
+      "title": "MERNmart",
+      "tagline": "Full-featured e-commerce platform on MERN stack",
+      "description": "End-to-end e-commerce solution with JWT auth, Stripe payments, Redis caching, admin panel, order management, and containerized deployment.",
+      "tags": ["React", "Express.js", "MongoDB", "Redis", "Docker"],
+      "type": "Full Stack",
+      "liveUrl": "#",
+      "githubUrl": "#",
+      "featured": false,
+      "image": "/images/proj3.png",
+      "stats": { "commits": 210, "linesOfCode": "18K", "duration": "8 weeks" }
+    },
+    {
+      "id": "proj-004",
+      "title": "CloudGuard API",
+      "tagline": "Secure REST API with Azure-native authentication",
+      "description": "A hardened Node.js REST API using Azure AD for identity, Azure Key Vault for secrets, rate limiting, and full OpenAPI documentation.",
+      "tags": ["Node.js", "Azure", "JWT", "Express.js"],
+      "type": "Backend",
+      "liveUrl": "#",
+      "githubUrl": "#",
+      "featured": false,
+      "image": "/images/proj4.png",
+      "stats": { "commits": 67, "linesOfCode": "4.2K", "duration": "3 weeks" }
+    }
+  ],
+  "process": [
+    { "step": "01", "title": "Discover & Define", "description": "Deep research before touching any code. Understanding the real problem, the users, constraints, and defining clear success metrics.", "icon": "🔭", "color": "#00D4FF" },
+    { "step": "02", "title": "Architect", "description": "System design blueprints — database schemas, API contracts, component trees, and infrastructure topology. Everything mapped before building.", "icon": "📐", "color": "#7B61FF" },
+    { "step": "03", "title": "Build", "description": "Clean, modular, documented code. Feature branches, atomic commits, and regular code reviews. No shortcuts on fundamentals.", "icon": "⚙️", "color": "#00D4FF" },
+    { "step": "04", "title": "Test & Harden", "description": "Unit tests, integration tests, edge cases, and security audits. A feature isn't done until it's proven to handle what it shouldn't.", "icon": "🧪", "color": "#7B61FF" },
+    { "step": "05", "title": "Deploy & Automate", "description": "Containerized deployments via Docker, CI/CD pipelines on Azure DevOps or GitHub Actions, zero-downtime blue-green deployments.", "icon": "🚀", "color": "#00D4FF" },
+    { "step": "06", "title": "Monitor & Iterate", "description": "Structured logging, performance metrics, alerting. Every deployment is the beginning of the next improvement cycle.", "icon": "📊", "color": "#7B61FF" }
+  ],
+  "principles": [
+    { "icon": "⚡", "title": "Automate Everything", "description": "If I do something twice, I automate it the third time. Repetition is a bug in the workflow." },
+    { "icon": "🚀", "title": "Ship, Then Improve", "description": "Working software today beats perfect software never. Iterate in production with real feedback." },
+    { "icon": "💬", "title": "Code is Communication", "description": "Code is written for humans first, machines second. Clarity beats cleverness every time." },
+    { "icon": "🔐", "title": "Security is Not Optional", "description": "Secure by design, not by afterthought. Every endpoint, every secret, every dependency matters." },
+    { "icon": "📝", "title": "Document While Building", "description": "Documentation written in retrospect is always incomplete. Write it while the context is fresh." },
+    { "icon": "🔄", "title": "Fail Fast, Learn Faster", "description": "Bugs and failures are data. The goal is to surface them early and extract every lesson." },
+    { "icon": "📈", "title": "Build for Scale", "description": "Design for 10x the current load. Bottlenecks discovered in production are 100x more expensive." },
+    { "icon": "🛠️", "title": "Own Your Stack", "description": "Understand every layer — from DNS to React render cycles. Black boxes become liabilities." }
+  ],
+  "journey": [
+    { "year": "2020", "month": "Jun", "title": "Started Engineering", "description": "Enrolled in B.E. Computer Science. Wrote my first `hello world` in C.", "type": "education" },
+    { "year": "2021", "month": "Mar", "title": "Discovered JavaScript", "description": "Fell in love with building things in the browser. React clicked immediately.", "type": "skill" },
+    { "year": "2021", "month": "Sep", "title": "First Full-Stack Project", "description": "Built a complete MERN app — a task manager with auth, CRUD, and deployment.", "type": "project" },
+    { "year": "2022", "month": "Feb", "title": "Went Deep on MERN", "description": "Mastered MongoDB aggregations, Express middleware patterns, and React state management.", "type": "skill" },
+    { "year": "2022", "month": "Aug", "title": "Entered DevOps World", "description": "First Docker container. First CI/CD pipeline. First time sleeping well knowing deployments were automated.", "type": "skill" },
+    { "year": "2023", "month": "Jan", "title": "Azure Certification Path", "description": "Started studying Azure fundamentals. Deployed production workloads to the cloud for the first time.", "type": "achievement" },
+    { "year": "2023", "month": "Jul", "title": "Automation with n8n", "description": "Discovered n8n — built complex multi-step workflows connecting 10+ services without writing boilerplate.", "type": "project" },
+    { "year": "2024", "month": "Apr", "title": "AI Agent Orchestration", "description": "Started exploring LangChain, agent frameworks, and building AI-powered automation nodes.", "type": "skill" },
+    { "year": "2024", "month": "Nov", "title": "Graduated — B.E. Computer Science", "description": "Completed engineering degree. Ready to turn four years of learning into real-world impact.", "type": "education" },
+    { "year": "2025", "month": "Now", "title": "Open to Opportunities", "description": "Actively looking for my first professional role. Ready to contribute, learn, and grow on day one.", "type": "achievement" }
+  ],
+  "contact": {
+    "headline": "Let's Build Something Together",
+    "subtext": "Whether it's a project, a job opportunity, or just a conversation — I'm all ears.",
+    "availabilityMessage": "Currently Available for Full-Time Roles"
+  }
+}
